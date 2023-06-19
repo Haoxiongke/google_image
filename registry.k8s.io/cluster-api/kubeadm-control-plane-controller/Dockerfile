@@ -1,0 +1,1 @@
+FROM registry.k8s.io/cluster-api/kubeadm-control-plane-controller:v1.4.3
