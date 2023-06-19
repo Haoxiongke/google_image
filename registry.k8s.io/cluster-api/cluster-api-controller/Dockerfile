@@ -1,0 +1,1 @@
+FROM registry.k8s.io/cluster-api/cluster-api-controller:v1.4.3
