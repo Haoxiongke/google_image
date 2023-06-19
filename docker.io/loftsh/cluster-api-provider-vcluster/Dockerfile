@@ -1,1 +1,0 @@
-FROM docker.io/loftsh/cluster-api-provider-vcluster:0.1.3
